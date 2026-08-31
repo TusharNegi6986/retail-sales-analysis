@@ -191,14 +191,12 @@ The Tableau dashboard was designed with:
 
 ![Tableau Executive Dashboard](docs/screenshots/tableau-dashboard.png)
 
-### Additional Tableau Screenshot
 
-![Tableau Dashboard Detail](docs/screenshots/tableau-dashboard-detail.png)
 
 ### Tableau Public
 
 **Tableau Public Dashboard:**
-[Add your Tableau Public URL here]
+(https://public.tableau.com/app/profile/tushar.negi4523/viz/End-to-EndRetailAnalyticsDashboard/Dashboard2)
 
 ---
 
@@ -838,9 +836,6 @@ These are considered future enhancements rather than part of the current mini-pr
 
 ![Tableau Executive Dashboard](docs/screenshots/tableau-dashboard.png)
 
-### Tableau Dashboard Detail
-
-![Tableau Dashboard Detail](docs/screenshots/tableau-dashboard-detail.png)
 
 ---
 
@@ -860,7 +855,7 @@ These are considered future enhancements rather than part of the current mini-pr
 
 ### Tableau Public
 
-[Add Tableau Public Link]
+[Add Tableau Public Link](https://public.tableau.com/app/profile/tushar.negi4523/viz/End-to-EndRetailAnalyticsDashboard/Dashboard2)
 
 ### Live Web Application
 
