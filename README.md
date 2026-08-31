@@ -249,7 +249,8 @@ The main dashboard provides an overview of business performance.
 
 ### Screenshot
 
-![React Executive Dashboard](docs/screenshots/react-dashboard.png)
+![React Executive Dashboard]
+<img width="1917" height="935" alt="image" src="https://github.com/user-attachments/assets/05237fb6-c8d2-4627-99ad-49f898ad69f2" />
 
 ---
 
